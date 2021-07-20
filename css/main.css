@@ -2338,13 +2338,13 @@ margin-top: 50px;
 }
 
 .features-area-l-14 .bg-shape-img-2 {
-  background: #0C39F8;
+  background: black;
   padding: 80px 0px;
 }
 
 @media (min-width: 992px) {
   .features-area-l-14 .bg-shape-img-2 {
-    background: url(../image/l4/features-bg.png);
+    background: url("../image/smartlocker/bb1-01.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
