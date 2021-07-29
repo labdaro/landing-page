@@ -2,8 +2,13 @@ body {
   background: #eee
 }
 
+#bg-team{
+  /* padding-top: 100px; */
+  background-color: #ffdf01;
+  border-radius: 10%;
+}
 .name {
-  color: blue
+  color: black
 }
 
 .work {
@@ -2989,7 +2994,7 @@ margin-top: 50px;
 .footer-subs-form-l-12 .input-group .btn {
   min-width: 60px;
   height: 56px;
-  background: #4EBE86;
+  background: #ffdf01;
   border-radius: 0px 5px 5px 0px;
 }
 
