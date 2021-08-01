@@ -1,7 +1,20 @@
 body {
   background: #eee
 }
+/* .landing-14-menu{
+  background: #315bb8 !important;
+}
+.landing-17-menu.reveal-header {
+  background: #315bb8 !important;
+} */
 
+.footer-area-l-17 {
+  background: linear-gradient(
+-45deg
+, #152649 0%, #ffdf01 100%);
+  padding-top: 60px;
+  padding-bottom: 35px;
+}
 #bg-team{
   /* padding-top: 100px; */
   background-color: #ffdf01;
